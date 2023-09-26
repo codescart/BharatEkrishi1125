@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "446257959658",
+    "project_id": "bharatekrishi-2a887",
+    "storage_bucket": "bharatekrishi-2a887.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446257959658:android:bcdd8e7a89e26b1457fd93",
+        "android_client_info": {
+          "package_name": "com.foundercodes.bharatekrishiandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446257959658-ejr3k05dtbu278aa819e2o9smm1ru7r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsU3lgUkRatydNfZXaa46KJF0xK_4P0g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446257959658-ejr3k05dtbu278aa819e2o9smm1ru7r3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
